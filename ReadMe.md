@@ -25,3 +25,9 @@
 
 <h2>Formação:</h2>
 <p>Tecnico em Informática Integrado ao EM</p>
+
+<h2>Projetos publicados:</h2>
+<ul>
+  <li>[BrasilTempo](https://github.com/nvsslynn/BrasilTempo)</li>
+  li>[Simulador de Quebra de Senhas](https://github.com/nvsslynn/Simulador-de-Quebra-de-Senhas)</li>
+</ul>
