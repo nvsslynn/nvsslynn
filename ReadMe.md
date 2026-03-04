@@ -28,6 +28,6 @@
 
 <h2>Projetos publicados:</h2>
 <ul>
-  <li>[BrasilTempo](https://github.com/nvsslynn/BrasilTempo)</li>
-  li>[Simulador de Quebra de Senhas](https://github.com/nvsslynn/Simulador-de-Quebra-de-Senhas)</li>
+  <li> <a href="https://github.com/nvsslynn/BrasilTempo">BrasilTempo</a> - mar/26</li>
+  <li> <a href="https://github.com/nvsslynn/Simulador-de-Quebra-de-Senhas">Simulador de Quebra de Senhas</a> - jul/25</li>
 </ul>
